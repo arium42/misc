@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 105.83333 105.83333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="arium.svg"
+   inkscape:export-filename="/home/charlie/Documents/arium2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="400px"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="true"
+     showguides="false"
+     inkscape:zoom="1.8725"
+     inkscape:cx="129.50601"
+     inkscape:cy="169.02537"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-nodes="true" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect39420"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect39416"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect38327"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11022"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11003"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10971"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5214"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1552"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1370"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dashoffset:32.8;paint-order:stroke markers fill"
+       id="rect846"
+       width="105.83333"
+       height="105.83333"
+       x="0"
+       y="0"
+       inkscape:label="bg" />
+    <circle
+       style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dashoffset:32.8;paint-order:stroke markers fill"
+       id="path1134"
+       cx="52.916664"
+       cy="52.916664"
+       r="52.916664"
+       inkscape:label="ring 4" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.7207;stroke-linecap:butt;stroke-linejoin:miter;stroke-dashoffset:32.8;paint-order:stroke markers fill"
+       id="path1134-3-6"
+       cx="52.325535"
+       cy="53.34243"
+       inkscape:label="ring 3"
+       r="49.609375" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:2.97657;stroke-linecap:butt;stroke-linejoin:miter;stroke-dashoffset:32.8;paint-order:stroke markers fill"
+       id="path1134-3"
+       cx="49.927654"
+       cy="53.34243"
+       inkscape:label="ring 2"
+       r="39.6875" />
+    <path
+       id="path11025-3-6-0-6-2"
+       style="fill:#ffff33;fill-opacity:1;stroke:none;stroke-width:0.992184;stroke-linecap:butt;stroke-linejoin:miter;stroke-dashoffset:32.8;paint-order:stroke markers fill"
+       d="M 39.687497,79.374997 V 66.145831 H 26.458331 a 13.229166,13.229166 0 0 0 13.229166,13.229166 z"
+       inkscape:label="fin" />
+    <ellipse
+       style="fill:#8f52cc;fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:32.8;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path38106"
+       cx="52.916664"
+       cy="52.916664"
+       rx="26.458332"
+       ry="26.45833"
+       inkscape:label="inst bg c" />
+    <path
+       id="path11025"
+       style="fill:#ffff33;fill-opacity:1;stroke:none;stroke-width:1.98437;stroke-linecap:butt;stroke-linejoin:miter;stroke-dashoffset:32.8;paint-order:stroke markers fill"
+       d="M 52.916664,26.458331 V 52.916664 H 79.374997 A 26.458332,26.458332 0 0 0 52.916664,26.458331 Z"
+       inkscape:label="qqq1" />
+    <circle
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.64584;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:32.8;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path38877-6-2-0-9"
+       cx="64.822914"
+       cy="41.010414"
+       r="2.9765625"
+       inkscape:label="eye" />
+    <circle
+       style="display:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:32.8;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path68973"
+       cx="52.614876"
+       cy="53.053089"
+       r="39.46796"
+       inkscape:label="vinyl scratch" />
+    <path
+       style="fill:none;stroke:#e5e5e5;stroke-width:5.34748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="M 52.312052,6.4067949 V 53.355913 h 34.629365"
+       id="path50184"
+       inkscape:label="arm" />
+  </g>
+</svg>
